@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="newString1">newString1</string>
+    <string name="GoldenButton1">GoldenButton</string>
+    <string name="clearscreen">clear screen</string>
+    <string name="name">Enter Your Name</string>
+    <string name="age">Enter Your Age</string>
+    <string name="greeting">Hi</string>
+    <string name="greeting2">, you will be</string>
+    <string name="greeting3">in 2018</string>
+
+
+
+</resources>
